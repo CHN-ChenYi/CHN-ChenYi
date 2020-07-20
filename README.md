@@ -1,4 +1,4 @@
-![](./chrome___dino_ - Google Chrome 2020-07-20 17-28-59.gif)
+![](./chrome___dino_-Google_Chrome_2020-07-20_17-28-59.gif)
 
 ### Hi there 👋
 
