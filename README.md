@@ -1,3 +1,5 @@
+![](./chrome___dino_ - Google Chrome 2020-07-20 17-28-59.gif)
+
 ### Hi there 👋
 
 <!--
