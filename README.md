@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=CHN-ChenYi&show_icons=true&hide_border=true)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CHN-ChenYi)
+
 <!--
 **CHN-ChenYi/CHN-ChenYi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
