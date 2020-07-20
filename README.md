@@ -1,10 +1,8 @@
 ![](https://github.com/CHN-ChenYi/CHN-ChenYi/raw/master/chrome___dino_-Google_Chrome_2020-07-20_17-28-59_small.gif)
 
-### Hi there 👋
+### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=CHN-ChenYi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=CHN-ChenYi&show_icons=true&hide_border=true)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CHN-ChenYi)
+![](https://github-readme-stats.vercel.app/api?username=CHN-ChenYi&show_icons=true&hide_border=true)
 
 <!--
 **CHN-ChenYi/CHN-ChenYi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
