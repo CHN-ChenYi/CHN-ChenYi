@@ -1,4 +1,4 @@
-![](https://github.com/CHN-ChenYi/CHN-ChenYi/raw/master/chrome___dino_-Google_Chrome_2020-07-20_17-28-59.gif)
+![](https://github.com/CHN-ChenYi/CHN-ChenYi/raw/master/chrome___dino_-Google_Chrome_2020-07-20_17-28-59_small.gif)
 
 ### Hi there 👋
 
