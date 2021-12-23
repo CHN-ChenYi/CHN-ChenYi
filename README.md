@@ -1,6 +1,7 @@
 ![](https://github.com/CHN-ChenYi/CHN-ChenYi/raw/master/chrome___dino_-Google_Chrome_2020-07-20_17-28-59_small.gif)
 
 <h1 align="center">Hi there 👋, it's CHEN Yi.</h1>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=CHN-ChenYi)
 
 - 🌱 I’m currently learning **Computer Science and Technology in Zhejiang University.**
