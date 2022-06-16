@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Computer Science and Technology in Zhejiang University.**
 - ⚡ My main interests are **High Performance Computing and Backend Development**.
-- 📊 The stats below (esp. for the *Most Used Languages*) are slightly **inaccurate** as the [metrics](https://github.com/lowlighter/metrics) only count about 60% of my commits.
+- 📊 The stats below (esp. for the *Most Used Languages*) are slightly **inaccurate** as the [metrics](https://github.com/lowlighter/metrics) only count about 40% of my commits.
 
 ![](github-metrics.svg)
 
