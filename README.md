@@ -5,8 +5,8 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CHN-ChenYi)
 
-- 🌱 I’m currently learning **Computer Science and Technology in Zhejiang University.**
-- ⚡ My main interests are **High Performance Computing and Backend Development**.
+- 🌱 I’m currently learning **Computer Science and Technology in Zhejiang University**.
+- ⚡ My main interests are **Computer Architecture and High Performance Computing**.
 - 📊 The stats below (esp. for the *Most Used Languages*) are slightly **inaccurate** as the [metrics](https://github.com/lowlighter/metrics) only count about 40% of my commits.
 
 ![](github-metrics.svg)
