@@ -5,7 +5,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CHN-ChenYi)
 
-- 🌱 I’m currently learning **Computer Science and Technology in Zhejiang University**.
+- 🌱 I’m currently a Ph.D. student at University of Michigan.
 - ⚡ My main interest is **Systems**.
 - 📊 The stats below (esp. for the *Most Used Languages*) are slightly **inaccurate** as the [metrics](https://github.com/lowlighter/metrics) only count about 40% of my commits.
 
