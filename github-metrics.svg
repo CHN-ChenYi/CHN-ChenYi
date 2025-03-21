@@ -33,16 +33,16 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2540 Commits
+                            2544 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -214,19 +214,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 351kb of code in 141 edited files across 35 commits</small>
+                <small>estimation from 352kb of code in 143 edited files across 37 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="733.2645500164142" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="733.2645500164142" y="0" width="90.94196668177815" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="824.2065166981923" y="0" width="42.2542168863043" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="866.4607335844967" y="0" width="36.23296701006217" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="902.6937005945588" y="0" width="6.2849192577654795" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="908.9786198523243" y="0" width="6.155481561381294" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="915.1341014137056" y="0" width="4.865898586294403" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="733.7788471032079" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="733.7788471032079" y="0" width="90.69149903604817" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="824.470346139256" y="0" width="42.13784251469312" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="866.6081886539491" y="0" width="36.13317605242235" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="902.7413647063715" y="0" width="6.26760965926511" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="909.0089743656366" y="0" width="6.138528453467888" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="915.1475028191045" y="0" width="4.852497180895566" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,9 +238,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>5.03k lines</div>
-                                <div>152 kB</div>
-                                <div>79.7%</div>
+                                <div>5.05k lines</div>
+                                <div>153 kB</div>
+                                <div>79.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -268,7 +268,7 @@
                             <small>
                                 <div>484 lines</div>
                                 <div>18.9 kB</div>
-                                <div>9.88%</div>
+                                <div>9.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -296,7 +296,7 @@
                             <small>
                                 <div>439 lines</div>
                                 <div>8.81 kB</div>
-                                <div>4.59%</div>
+                                <div>4.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -324,7 +324,7 @@
                             <small>
                                 <div>428 lines</div>
                                 <div>7.56 kB</div>
-                                <div>3.94%</div>
+                                <div>3.93%</div>
                             </small>
                         </div>
                     </section>
@@ -690,7 +690,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 756k out of 227m repositories</span>
+                                    <span class="gh">ranked 756k out of 238m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 43 stars</div>
                             </div>
@@ -882,7 +882,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Mar 2025, 23:13:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Mar 2025, 11:26:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
